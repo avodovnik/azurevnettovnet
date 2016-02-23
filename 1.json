@@ -39,7 +39,8 @@
             "type": "string",
             "metadata": {
                 "description": "Location where second VNET, Gateway, PublicIP and Connection will be deployed."
-            "defaultValue": "North Europe",
+            },
+            "defaultValue": "West Europe",
             "allowedValues": [
                 "Central US",
                 "East US",
